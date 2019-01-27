@@ -2,7 +2,7 @@
 
 create an API to manage a user persistence layer.
 
-This project was built with Laravel 5.7:
+This project was built with Laravel 5.7.
 
 The database file is included in the project: holidayextras.sql
 
